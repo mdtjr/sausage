@@ -21,7 +21,7 @@ Jeweler::Tasks.new do |gem|
   gem.description = %Q{2}
   gem.email = "michael.david.towle@gmail.com"
   gem.authors = ["michael d. towle"]
-  gem.version = "0.0.1"
+  gem.version = "0.0.2"
   gem.files.include "lib/**/*"
 end
 Jeweler::RubygemsDotOrgTasks.new
