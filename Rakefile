@@ -17,11 +17,12 @@ Jeweler::Tasks.new do |gem|
   gem.name = "sausage"
   gem.homepage = "http://github.com/tow1e/sausage"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{1}
+  gem.description = %Q{2}
   gem.email = "michael.david.towle@gmail.com"
   gem.authors = ["michael d. towle"]
-  # dependencies defined in Gemfile
+  gem.version = "0.0.1"
+  gem.files.include "lib/**/*"
 end
 Jeweler::RubygemsDotOrgTasks.new
 
